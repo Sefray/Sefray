@@ -8,4 +8,8 @@ I am also a research student at LRE (Research Laboratory of EPITA). My work is f
 
 --- 
 
+You can see my contributions to project that I do not possess in my *star* in the *contribution* list
+
+---
+
 Feel free to contact me if you have any questions or comments about my projects!
