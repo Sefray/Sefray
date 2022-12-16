@@ -5,7 +5,6 @@ Welcome to my GitHub profile!
 I am a computer science student specializing in **Artificial Intelligence** & **Data Science**, and **Research** at EPITA. On this profile, you can view my current projects and past achievements in these fields. (As I am still student and the project are still going through, only the finished one are currently available.)
 
 The following list includes my ongoing projects:
-- Android Application using a fine tuned yolov5 for plastic detection in a river
 - Reproduction of the result presented in a survey about Visual Object Tracking
 - Implementation of the SVM from scratch
 
