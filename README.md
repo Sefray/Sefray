@@ -4,10 +4,6 @@ Welcome to my GitHub profile!
 
 I am a computer science student specializing in **Artificial Intelligence** & **Data Science**, and **Research** at EPITA. On this profile, you can view my current projects and past achievements in these fields. (As I am still student and the project are still going through, only the finished one are currently available.)
 
-The following list includes my ongoing projects:
-- Reproduction of the result presented in a survey about Visual Object Tracking
-- Implementation of the SVM from scratch
-
 You can see my contributions to project that I do not possess in my *star* section in the *contribution* list
 
 ---
@@ -18,7 +14,7 @@ The following list includes my contributions in my research project:
 - Creation of a modulable pipeline (C++) for line detection in document using multiple object tracking
 - Improvement of the evaluation for line detection (Python)
 
-The Open-Source scribo pipeline is available in the scribo folder of https://gitlab.lre.epita.fr/olena/pylene repository.
+The Open-Source scribo pipeline is available in the scribo folder of https://gitlab.lre.epita.fr/olena/pylene repository and a play ground is available ![here](https://github.com/Sefray/RDI2023-Seminar).
 
 ---
 
